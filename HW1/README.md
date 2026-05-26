@@ -66,7 +66,7 @@ Cassandra container running locally with Docker.
 
 AWS account configured with S3 bucket.
 
-![AWS S3](./aws.png)
+![AWS S3](./s3.png)
 
 ---
 
